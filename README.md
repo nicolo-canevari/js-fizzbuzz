@@ -11,6 +11,6 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 LOGICA:
 
 -Dico al programma di eseguire un cicle che vada a contare da 1-100.
+-Specifico che se un valore è uguale o multiplo si 3 e 5 dovrà chiamarsi FizzBuzz.
 -Specifico che se un valore è uguale o multiplo di 3 dovrà chiamarsi Fizz.
 -Specifico che se un valore è uguale o multiplo di 5 dovrà chiamarsi Buzz.
--Specifico che se un valore è uguale o multiplo si 3 e 5 dovrà chiamarsi FizzBuzz.
